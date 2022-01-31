@@ -1,3 +1,7 @@
+ body {
+   background-image: url(https://www.simplilearn.com/ice9/free_resources_article_thumb/AES_encryption.jpg);
+
+ }
 .row {
     margin-top: 25vh;
   }
@@ -38,5 +42,6 @@
     color: black;
     box-shadow: 0 0 10px white;
   }
+
 
  
